@@ -13,7 +13,7 @@ Estabelecer uma política de segurança da informação, com regras claras sobre
 - Quem tem autorização para acessar documentos internos.
 
 > 📎 **Fundamento:** proteção da **confidencialidade**, acesso baseado na necessidade, **ética no tratamento de dados** e prevenção de ameaças humanas intencionais  
-> Fonte: *Desafios éticos, sociais e de segurança da tecnologia da informação*&#8203;:contentReference[oaicite:0]{index=0}
+> Fonte: *Desafios éticos, sociais e de segurança da tecnologia da informação*
 
 ---
 
@@ -25,7 +25,7 @@ Implementar um sistema de gerenciamento de dispositivos móveis (MDM) que:
 - Permita bloqueio remoto, monitoramento de atividade e limpeza de dados confidenciais em caso de incidentes.
 
 > 📎 **Fundamento:** redução de **vulnerabilidades técnicas**, uso de mecanismos lógicos de segurança e reforço da **autenticidade e rastreabilidade**  
-> Fonte: *Desafios éticos, sociais e de segurança da tecnologia da informação*&#8203;:contentReference[oaicite:1]{index=1}
+> Fonte: *Desafios éticos, sociais e de segurança da tecnologia da informação*
 
 ---
 
@@ -38,6 +38,6 @@ Criar um programa obrigatório de **conscientização sobre segurança e ética 
 - Reforço contínuo da cultura organizacional orientada à segurança.
 
 > 📎 **Fundamento:** promoção da **ética**, responsabilidade profissional (artigos 5, 7 e 8 do Código de Ética da SBC) e redução do **risco humano**  
-> Fonte: *Desafios éticos, sociais e de segurança da tecnologia da informação*&#8203;:contentReference[oaicite:2]{index=2}
+> Fonte: *Desafios éticos, sociais e de segurança da tecnologia da informação*
 
 ---
